@@ -1,1 +1,3 @@
-# it-school
+#primul proiect de git
+
+
